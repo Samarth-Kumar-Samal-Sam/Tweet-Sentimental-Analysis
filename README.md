@@ -3,7 +3,7 @@
 ## 🚀 Live Demo
 
 🔗 **Try the Application Here:**  
-(https://your-streamlit-app-link.streamlit.app/)
+[Wen Application Link :](https://tweet-sentimental-analysis-sam.streamlit.app/)
 
 Analyze public sentiment in real time using machine learning–powered tweet classification.
 
