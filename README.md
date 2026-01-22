@@ -2,14 +2,13 @@
 
 ## 🚀 Live Demo
 
-🔗 **Try the Application Here:**  
-[Wen Application Link :](https://tweet-sentimental-analysis-sam.streamlit.app/)
+🔗 **Try the Application Here:** https://tweet-sentimental-analysis-sam.streamlit.app/
 
 Analyze public sentiment in real time using machine learning–powered tweet classification.
 
 ---
 
-[Dataset Link :](https://www.kaggle.com/datasets/kazanova/sentiment140)
+Dataset Link : https://www.kaggle.com/datasets/kazanova/sentiment140
 
 ## 📌 Project Overview
 
